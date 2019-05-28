@@ -1,2 +1,3 @@
 # az-serverless
-This is for a hands-on training only
+This is for hands-on training only
+
